@@ -1,4 +1,4 @@
-# Urban Street Network & Amenity Analysis — India & Korea
+# Urban Street Network & Amenity Analysis - India & Korea
 
 Comparative analysis of street network structure and urban amenities (POIs) across
 23 cities in India and South Korea, using OpenStreetMap data via OSMnx (Python) and
