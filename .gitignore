@@ -1,0 +1,20 @@
+# Data outputs (regenerable from pipeline scripts)
+data/*.gpkg
+data/*.csv
+!data/.gitkeep
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
